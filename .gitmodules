@@ -1,0 +1,3 @@
+[submodule "3gpp-codec-evs"]
+	path = 3gpp-codec-evs
+	url = git@github.com:SteveAyre/3gpp-codec-evs.git
